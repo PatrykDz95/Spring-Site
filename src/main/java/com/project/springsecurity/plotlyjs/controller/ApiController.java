@@ -65,7 +65,7 @@ public class ApiController {
 		
 	}
 	
-	private static final String API_KEY = "d3f402ba364691fc61e4a73cbe0358c2";
+	//KEY
 	private static final String LOCATION = ",pl";
 	
 	@GetMapping("/weather/{town}")
